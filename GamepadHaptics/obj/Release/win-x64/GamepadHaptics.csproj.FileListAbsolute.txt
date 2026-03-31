@@ -1,0 +1,13 @@
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\bin\Release\win-x64\GamepadHaptics.deps.json
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\bin\Release\win-x64\GamepadHaptics.dll
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\bin\Release\win-x64\GamepadHaptics.pdb
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.csproj.AssemblyReference.cache
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.AssemblyInfoInputs.cache
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.AssemblyInfo.cs
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.sourcelink.json
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.dll
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\refint\GamepadHaptics.dll
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\GamepadHaptics.pdb
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\obj\Release\win-x64\ref\GamepadHaptics.dll

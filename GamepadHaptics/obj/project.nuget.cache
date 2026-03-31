@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DYqjTEwreMY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pierre\\Documents\\code\\perso\\MX4GameHaptics\\GamepadHaptics\\GamepadHaptics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pierre\\.nuget\\packages\\nefarius.vigem.client\\1.21.256\\nefarius.vigem.client.1.21.256.nupkg.sha512",
+    "C:\\Users\\Pierre\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Pierre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Pierre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

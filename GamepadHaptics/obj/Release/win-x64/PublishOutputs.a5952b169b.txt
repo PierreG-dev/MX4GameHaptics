@@ -1,0 +1,4 @@
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\publish\GamepadHaptics.dll
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\publish\GamepadHaptics.deps.json
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\publish\GamepadHaptics.pdb
+C:\Users\Pierre\Documents\code\perso\MX4GameHaptics\GamepadHaptics\publish\Nefarius.ViGEm.Client.dll
